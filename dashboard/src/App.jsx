@@ -49,14 +49,22 @@ const ACCENT_STYLES = {
   green: { border: 'border-l-emerald-400', chip: 'bg-emerald-50 text-emerald-700 ring-1 ring-emerald-200' },
 };
 
+// In production (e.g. deployed to Vercel) there's no dev-server proxy to
+// rewrite '/api/...' to the backend's real origin — that proxy only exists
+// while running `vite dev` locally. Every environment needs an explicit
+// base URL instead. Set VITE_API_BASE_URL at build time (Vercel: Project
+// Settings -> Environment Variables); locally it falls back to the same
+// backend port vite.config.js's dev proxy already points at.
+const API_BASE_URL = (import.meta.env.VITE_API_BASE_URL || 'http://localhost:4000').replace(/\/$/, '');
+
 async function apiGet(path) {
-  const res = await fetch(path);
+  const res = await fetch(`${API_BASE_URL}${path}`);
   if (!res.ok) throw new Error(`GET ${path} failed (${res.status})`);
   return res.json();
 }
 
 async function apiPost(path, body) {
-  const res = await fetch(path, {
+  const res = await fetch(`${API_BASE_URL}${path}`, {
     method: 'POST',
     headers: { 'content-type': 'application/json' },
     body: JSON.stringify(body || {}),
