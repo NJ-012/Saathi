@@ -1,0 +1,122 @@
+[
+  {
+    "id": "RZ-KUR-001",
+    "name": "Chikankari Cotton Kurta – Ivory",
+    "category": "kurta",
+    "price": 1899,
+    "currency": "INR",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "stock": 42,
+    "description": "Hand-embroidered chikankari work on breathable cotton. Relaxed straight fit, great for everyday wear."
+  },
+  {
+    "id": "RZ-KUR-002",
+    "name": "Ajrakh Block Print Kurta – Indigo",
+    "category": "kurta",
+    "price": 2199,
+    "currency": "INR",
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": 27,
+    "description": "Traditional Ajrakh block prints in deep indigo on soft cotton. Mandarin collar with side slits."
+  },
+  {
+    "id": "RZ-KUR-003",
+    "name": "Mustard Bagh Print Straight Kurta",
+    "category": "kurta",
+    "price": 1599,
+    "currency": "INR",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "stock": 60,
+    "description": "Sunny mustard kurta with hand block bagh prints. Straight cut, three-quarter sleeves."
+  },
+  {
+    "id": "RZ-KUR-004",
+    "name": "Maroon Embroidered A-Line Kurta",
+    "category": "kurta",
+    "price": 2499,
+    "currency": "INR",
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": 18,
+    "description": "Thread-embroidered yoke on a flowy A-line silhouette in rich maroon. Dressy enough for festive wear."
+  },
+  {
+    "id": "RZ-DUP-001",
+    "name": "Bandhani Silk Dupatta – Fuchsia Pink",
+    "category": "dupatta",
+    "price": 1299,
+    "currency": "INR",
+    "sizes": ["Free Size"],
+    "stock": 35,
+    "description": "Traditional bandhani tie-dye on pure silk with a contrast gota border. Adds a festive pop to any outfit."
+  },
+  {
+    "id": "RZ-DUP-002",
+    "name": "Chiffon Zari Border Dupatta – Gold",
+    "category": "dupatta",
+    "price": 999,
+    "currency": "INR",
+    "sizes": ["Free Size"],
+    "stock": 50,
+    "description": "Lightweight chiffon dupatta with a delicate gold zari border. Easy to drape for daily or festive wear."
+  },
+  {
+    "id": "RZ-DUP-003",
+    "name": "Phulkari Cotton Dupatta – Multicolor",
+    "category": "dupatta",
+    "price": 899,
+    "currency": "INR",
+    "sizes": ["Free Size"],
+    "stock": 44,
+    "description": "Punjabi phulkari embroidery in vibrant multicolor threadwork on a soft cotton base."
+  },
+  {
+    "id": "RZ-SAR-001",
+    "name": "Banarasi Silk Saree – Deep Red",
+    "category": "saree",
+    "price": 6499,
+    "currency": "INR",
+    "sizes": ["Free Size"],
+    "stock": 12,
+    "description": "Classic Banarasi weave in deep red with gold zari motifs. Comes with a matching unstitched blouse piece."
+  },
+  {
+    "id": "RZ-SAR-002",
+    "name": "Handloom Linen Saree – Sand Beige",
+    "category": "saree",
+    "price": 3299,
+    "currency": "INR",
+    "sizes": ["Free Size"],
+    "stock": 20,
+    "description": "Breathable handloom linen saree in sand beige with a subtle woven border. Ideal for daytime events."
+  },
+  {
+    "id": "RZ-SAR-003",
+    "name": "Georgette Printed Saree – Teal",
+    "category": "saree",
+    "price": 2799,
+    "currency": "INR",
+    "sizes": ["Free Size"],
+    "stock": 25,
+    "description": "Flowy georgette saree with an all-over floral print in teal. Pairs with a ready-to-wear blouse."
+  },
+  {
+    "id": "RZ-ACC-001",
+    "name": "Oxidised Silver Jhumka Earrings",
+    "category": "accessory",
+    "price": 649,
+    "currency": "INR",
+    "sizes": ["One Size"],
+    "stock": 70,
+    "description": "Traditional oxidised silver jhumkas with a bell-shaped drop. Lightweight enough for all-day wear."
+  },
+  {
+    "id": "RZ-ACC-002",
+    "name": "Kundan Choker Necklace Set",
+    "category": "accessory",
+    "price": 1499,
+    "currency": "INR",
+    "sizes": ["One Size"],
+    "stock": 15,
+    "description": "Kundan-studded choker with matching earrings. A statement piece for festive and wedding looks."
+  }
+]

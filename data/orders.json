@@ -1,0 +1,338 @@
+[
+  {
+    "id": "RZ-ORD-1001",
+    "customer": {
+      "name": "Ananya Sharma",
+      "phone": "+919876543210"
+    },
+    "items": [
+      {
+        "product_id": "RZ-KUR-001",
+        "name": "Chikankari Cotton Kurta – Ivory",
+        "size": "M",
+        "qty": 1,
+        "price": 1899
+      }
+    ],
+    "total_amount": 1899,
+    "currency": "INR",
+    "status": "delivered",
+    "tracking_id": "SPX998211IN",
+    "created_at": "2026-05-02"
+  },
+  {
+    "id": "RZ-ORD-1002",
+    "customer": {
+      "name": "Ananya Sharma",
+      "phone": "+919876543210"
+    },
+    "items": [
+      {
+        "product_id": "RZ-DUP-002",
+        "name": "Chiffon Zari Border Dupatta – Gold",
+        "size": "Free Size",
+        "qty": 2,
+        "price": 999
+      }
+    ],
+    "total_amount": 1998,
+    "currency": "INR",
+    "status": "shipped",
+    "tracking_id": "SPX998455IN",
+    "created_at": "2026-06-10"
+  },
+  {
+    "id": "RZ-ORD-1003",
+    "customer": {
+      "name": "Priya Verma",
+      "phone": "+919812345678"
+    },
+    "items": [
+      {
+        "product_id": "RZ-SAR-001",
+        "name": "Banarasi Silk Saree – Deep Red",
+        "size": "Free Size",
+        "qty": 1,
+        "price": 6499
+      }
+    ],
+    "total_amount": 6499,
+    "currency": "INR",
+    "status": "delivered",
+    "tracking_id": "BDX55231IN",
+    "created_at": "2026-04-18"
+  },
+  {
+    "id": "RZ-ORD-1004",
+    "customer": {
+      "name": "Priya Verma",
+      "phone": "+919812345678"
+    },
+    "items": [
+      {
+        "product_id": "RZ-ACC-001",
+        "name": "Oxidised Silver Jhumka Earrings",
+        "size": "One Size",
+        "qty": 1,
+        "price": 649
+      },
+      {
+        "product_id": "RZ-ACC-002",
+        "name": "Kundan Choker Necklace Set",
+        "size": "One Size",
+        "qty": 1,
+        "price": 1499
+      }
+    ],
+    "total_amount": 2148,
+    "currency": "INR",
+    "status": "return-requested",
+    "tracking_id": "BDX55890IN",
+    "created_at": "2026-06-01"
+  },
+  {
+    "id": "RZ-ORD-1005",
+    "customer": {
+      "name": "Meera Iyer",
+      "phone": "+919900112233"
+    },
+    "items": [
+      {
+        "product_id": "RZ-KUR-003",
+        "name": "Mustard Bagh Print Straight Kurta",
+        "size": "L",
+        "qty": 1,
+        "price": 1599
+      }
+    ],
+    "total_amount": 1599,
+    "currency": "INR",
+    "status": "placed",
+    "tracking_id": null,
+    "created_at": "2026-07-01"
+  },
+  {
+    "id": "RZ-ORD-1006",
+    "customer": {
+      "name": "Meera Iyer",
+      "phone": "+919900112233"
+    },
+    "items": [
+      {
+        "product_id": "RZ-SAR-003",
+        "name": "Georgette Printed Saree – Teal",
+        "size": "Free Size",
+        "qty": 1,
+        "price": 2799
+      }
+    ],
+    "total_amount": 2799,
+    "currency": "INR",
+    "status": "shipped",
+    "tracking_id": "DLX221190IN",
+    "created_at": "2026-06-25"
+  },
+  {
+    "id": "RZ-ORD-1007",
+    "customer": {
+      "name": "Fatima Khan",
+      "phone": "+919723456780"
+    },
+    "items": [
+      {
+        "product_id": "RZ-KUR-002",
+        "name": "Ajrakh Block Print Kurta – Indigo",
+        "size": "S",
+        "qty": 1,
+        "price": 2199
+      }
+    ],
+    "total_amount": 2199,
+    "currency": "INR",
+    "status": "delivered",
+    "tracking_id": "SPX887744IN",
+    "created_at": "2026-03-14"
+  },
+  {
+    "id": "RZ-ORD-1008",
+    "customer": {
+      "name": "Fatima Khan",
+      "phone": "+919723456780"
+    },
+    "items": [
+      {
+        "product_id": "RZ-DUP-001",
+        "name": "Bandhani Silk Dupatta – Fuchsia Pink",
+        "size": "Free Size",
+        "qty": 1,
+        "price": 1299
+      }
+    ],
+    "total_amount": 1299,
+    "currency": "INR",
+    "status": "delivered",
+    "tracking_id": "SPX887912IN",
+    "created_at": "2026-05-20"
+  },
+  {
+    "id": "RZ-ORD-1009",
+    "customer": {
+      "name": "Fatima Khan",
+      "phone": "+919723456780"
+    },
+    "items": [
+      {
+        "product_id": "RZ-KUR-004",
+        "name": "Maroon Embroidered A-Line Kurta",
+        "size": "XL",
+        "qty": 1,
+        "price": 2499
+      }
+    ],
+    "total_amount": 2499,
+    "currency": "INR",
+    "status": "return-requested",
+    "tracking_id": "SPX888120IN",
+    "created_at": "2026-06-15"
+  },
+  {
+    "id": "RZ-ORD-1010",
+    "customer": {
+      "name": "Riya Kapoor",
+      "phone": "+919650098765"
+    },
+    "items": [
+      {
+        "product_id": "RZ-SAR-002",
+        "name": "Handloom Linen Saree – Sand Beige",
+        "size": "Free Size",
+        "qty": 1,
+        "price": 3299
+      }
+    ],
+    "total_amount": 3299,
+    "currency": "INR",
+    "status": "delivered",
+    "tracking_id": "BDX56010IN",
+    "created_at": "2026-02-28"
+  },
+  {
+    "id": "RZ-ORD-1011",
+    "customer": {
+      "name": "Riya Kapoor",
+      "phone": "+919650098765"
+    },
+    "items": [
+      {
+        "product_id": "RZ-DUP-003",
+        "name": "Phulkari Cotton Dupatta – Multicolor",
+        "size": "Free Size",
+        "qty": 1,
+        "price": 899
+      },
+      {
+        "product_id": "RZ-ACC-001",
+        "name": "Oxidised Silver Jhumka Earrings",
+        "size": "One Size",
+        "qty": 2,
+        "price": 649
+      }
+    ],
+    "total_amount": 2197,
+    "currency": "INR",
+    "status": "shipped",
+    "tracking_id": "BDX56420IN",
+    "created_at": "2026-06-30"
+  },
+  {
+    "id": "RZ-ORD-1012",
+    "customer": {
+      "name": "Riya Kapoor",
+      "phone": "+919650098765"
+    },
+    "items": [
+      {
+        "product_id": "RZ-KUR-001",
+        "name": "Chikankari Cotton Kurta – Ivory",
+        "size": "L",
+        "qty": 1,
+        "price": 1899
+      }
+    ],
+    "total_amount": 1899,
+    "currency": "INR",
+    "status": "placed",
+    "tracking_id": null,
+    "created_at": "2026-07-03"
+  },
+  {
+    "id": "RZ-ORD-1013",
+    "customer": {
+      "name": "Sneha Joshi",
+      "phone": "+919345671234"
+    },
+    "items": [
+      {
+        "product_id": "RZ-ACC-002",
+        "name": "Kundan Choker Necklace Set",
+        "size": "One Size",
+        "qty": 1,
+        "price": 1499
+      }
+    ],
+    "total_amount": 1499,
+    "currency": "INR",
+    "status": "delivered",
+    "tracking_id": "DLX223345IN",
+    "created_at": "2026-04-05"
+  },
+  {
+    "id": "RZ-ORD-1014",
+    "customer": {
+      "name": "Sneha Joshi",
+      "phone": "+919345671234"
+    },
+    "items": [
+      {
+        "product_id": "RZ-SAR-001",
+        "name": "Banarasi Silk Saree – Deep Red",
+        "size": "Free Size",
+        "qty": 1,
+        "price": 6499
+      }
+    ],
+    "total_amount": 6499,
+    "currency": "INR",
+    "status": "shipped",
+    "tracking_id": "DLX224102IN",
+    "created_at": "2026-06-28"
+  },
+  {
+    "id": "RZ-ORD-1015",
+    "customer": {
+      "name": "Sneha Joshi",
+      "phone": "+919345671234"
+    },
+    "items": [
+      {
+        "product_id": "RZ-KUR-003",
+        "name": "Mustard Bagh Print Straight Kurta",
+        "size": "M",
+        "qty": 1,
+        "price": 1599
+      },
+      {
+        "product_id": "RZ-DUP-002",
+        "name": "Chiffon Zari Border Dupatta – Gold",
+        "size": "Free Size",
+        "qty": 1,
+        "price": 999
+      }
+    ],
+    "total_amount": 2598,
+    "currency": "INR",
+    "status": "placed",
+    "tracking_id": null,
+    "created_at": "2026-07-04"
+  }
+]
